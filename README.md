@@ -9,5 +9,4 @@ Requirements:
 
 Python Packages required: cmake, xlwt, tkinter, dlib, face-recognition, opencv2, numpy, pandas, datetime, pickle, imutils, openpyxl.
 
-To run the code use GUI.py for easy operation
-Clone the repo into a drive and run the GUI.py.
+To run the code clone the repo into a drive and run the GUI.py for easy operation.
